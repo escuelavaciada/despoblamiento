@@ -1,5 +1,3 @@
-#credit beautifulhugo https://github.com/halogenica/beautifulhugo/blob/master/data/beautifulhugo/social.toml
-
 [[social_icons]]
 id = "email"
 url = "mailto:%s"
@@ -155,6 +153,7 @@ id = "mastodon"
 url = "https://%s"
 title = "Mastodon"
 icon = "fab fa-mastodon"
+rel = "me"
 
 [[social_icons]]
 id = "weibo"
@@ -163,19 +162,13 @@ title = "Weibo"
 icon = "fab fa-weibo"
 
 [[social_icons]]
+id = "discord"
+url = "https://discord.gg/%s"
+title = "Discord"
+icon = "fab fa-discord"
+
+[[social_icons]]
 id = "strava"
 url = "https://www.strava.com/athletes/%s"
 title = "Strava"
 icon = "fab fa-strava"
-
-[[social_icons]]
-id = "orcid"
-url = "https://orcid.org/%s"
-title = "ORCiD"
-icon = "fab fa-orcid"
-
-[[social_icons]]
-id = "devto"
-url = "https://dev.to/%s"
-title = "devto"
-icon = "fab fa-dev"

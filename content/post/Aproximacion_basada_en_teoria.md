@@ -1,1 +1,0 @@
-[Escuela Vaciada](Escuela%20Vaciada.md)

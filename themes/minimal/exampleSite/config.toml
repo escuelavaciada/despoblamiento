@@ -1,4 +1,4 @@
-baseURL = "http://example.com/"
+baseURL = "https://escuelavaciada.netlify.app/"
 languageCode = "en-us"
 title = "Escuela Vaciada"
 theme = "minimal"
