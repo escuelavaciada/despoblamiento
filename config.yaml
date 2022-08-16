@@ -39,7 +39,7 @@ menu:
       weight: 5
   main:
     - name: 
-      url: /post
+      url: /post/
       weight: 1
 
 
