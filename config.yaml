@@ -1,7 +1,7 @@
 baseURL: https://escuelavaciada.netlify.app/
 languageCode: en-us
 title: Escuela Vaciada
-theme: minimal
+theme: hugo-kiera
 # disqusShortname: username
 googleAnalytics: ''
 params:
@@ -38,15 +38,8 @@ menu:
       url: https://stackoverflow.com/users/19774826/antonio-matas
       weight: 5
   main:
-    - name: Inicio
+    - name: 
       url: /
       weight: 1
-    - name: Al respecto
-      url: /about/
-      weight: 2
-    - name: Publicaciones
-      url: /post/
-      weight: 3
-    - name: Acciones
-      url: /project/
-      weight: 4
+
+
