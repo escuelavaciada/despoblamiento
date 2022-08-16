@@ -1,0 +1,6 @@
+<!--Blog Escuela Vaciada-->
+El [Heraldo de Aragón](https://www.heraldo.es/noticias/aragon/2022/02/06/64-colegios-municipios-aragoneses-menos-5-000-habitantes-pierden-alumnos-1551116.html?autoref=true) informaba el día 6 de febrero del 2022 que el 64% de los colegios de muunicipios de menos de 5000 habitantes pierden alumnos en Aragón. Según informaban este medio de comunicación, esta pérdida se ha venido produciendo en los últimos 12 meses, afectando tanto a los niveles de infantil, primaria, y también secundaria.
+Ante esta situación, el [Consejo Escolar](https://educa.aragon.es/consejo-escolar) Aragonés propone desarrollar un modelo propio para la escuela rural, adaptado a la realidad de su situación, tomando como referencia experiencias organizativas puestas en marcha en Cataluña y Canarias.
+Otra medida que pone de manifiesto este artículo, es la el Grado de Magisterio cree una especialidad centrada en este tipo de realidad.
+Mientras que esto sucede en Aragón, en comunidades autónomas con la de Andalucía, el [Consejo Escolar](https://www.juntadeandalucia.es/educacion/vscripts/w_cea/presentac.htm)se dedica a otros asuntos, totalmente ajeno a esta problemática.
+#Educación, #Escuela-rural, #Despoblamiento, #Noticias, #Consejo-escolar
