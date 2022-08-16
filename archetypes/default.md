@@ -1,8 +1,6 @@
 +++
-title = "{{ replace .TranslationBaseName "-" " " | title }}"
-date = {{ .Date }}
-images = []
-tags = []
-categories = []
-draft = true
+description = ""
+tags = ["Development", "golang"]
+categories = ["Development", "GoLang"]
+draft = false
 +++

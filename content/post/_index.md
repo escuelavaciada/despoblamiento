@@ -1,5 +1,6 @@
 +++
+aliases = ["posts", "articles", "blog", "showcase", "docs"]
 title = "Posts"
-menu = "main"
-weight = "10"
+author = "Hugo Authors"
+tags = ["index"]
 +++
