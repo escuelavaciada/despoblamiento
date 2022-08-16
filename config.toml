@@ -1,20 +1,68 @@
-pygmentsCodeFences = true
-
-disqusShortname = "" #Disqus shortname
-googleAnalytics = "" #Google Analytics ID
-
-[author]
-    name = ""           #Author name
-    github = ""         #Github username
-    gitlab = ""         #Gitlab username
-    linkedin = ""       #LinkedIn username
-    facebook = ""       #Facebook username
-    twitter = ""        #Twitter username
-    instagram = ""      #Instagram username
-    stackoverflow = ""  #StackOverflow username
-    devto = ""          #Dev.to username 
+  
+baseURL = "http://example.com/"
+languageCode = "en-us"
+title = "Escuela Vaciada"
+theme = "hugo-kiera"
+# disqusShortname = "username" # delete this to disable disqus comments
+googleAnalytics = ""
 
 [params]
-    tagline = "the tagline for this website"
-    customCSS = []  #Optional Customised CSS
-    disableDarkModeCSS = false # disables css style for users using dark-mode
+    author = "Calin Tataru"
+    description = "Sitio web del proyecto Escuela Vaciada"
+    githubUsername = "#"
+    accent = "red"
+    showBorder = true
+    backgroundColor = "white"
+    font = "Raleway" # should match the name on Google Fonts!
+    highlight = true
+    highlightStyle = "default"
+    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
+
+[[menu.main]]
+    url = "/"
+    name = "Inicio"
+    weight = 1
+
+[[menu.main]]
+    url = "/about/"
+    name = "Sobre..."
+    weight = 2
+
+[[menu.main]]
+    url = "/post/"
+    name = "Publicaciones"
+    weight = 3
+
+[[menu.main]]
+    url = "/project/"
+    name = "Acciones"
+    weight = 4
+
+# Social icons to be shown on the right-hand side of the navigation bar.
+# The "name" field should match the name of the icon in Font Awesome.
+# The list of available icons can be found at http://fontawesome.io/icons.
+
+[[menu.icon]]
+    url = "mailto:amatas@uma.es"
+    name = "fas fa-envelope"
+    weight = 1
+
+[[menu.icon]]
+    url = "https://gitlab.com/amataste"
+    name = "fab fa-gitlab"
+    weight = 2
+
+[[menu.icon]]
+    url = "https://twitter.com/Red_Idei"
+    name = "fab fa-twitter"
+    weight = 3
+
+[[menu.icon]]
+    url = "https://www.linkedin.com/in/antonio-matas-mateoferran"
+    name = "fab fa-linkedin"
+    weight = 4
+
+[[menu.icon]]
+    url = "https://stackoverflow.com/users/19774826/antonio-matas"
+    name = "fab fa-stack-overflow"
+    weight = 5
