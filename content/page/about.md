@@ -178,7 +178,12 @@ Los resultados del proyecto permiten extraer las siguientes conclusiones finales
     -   Ha permitido diseñar un instrumento en forma de escala de apreciación, que es una primera aproximación en el intento de medir el impacto de la escuela como actor a la hora de luchar contra el despoblamiento.
         
     -   Todo esto ha permitido generar una proyección de distintos escenarios, trabajados en términos de probabilidad.
-        
--   Todo lo anterior, ha permitido establecer algunas recomendaciones muy operativas sobre qué hacer y sobre qué agente intervenir para tratar de evitar el despoblamiento desde la escuela.
     
--   Este proyecto es un punto de partida. A pesar de su potencial, presenta limitaciones importantes que deberán ser superadas en proyectos posteriores. Entre otras, que no se tienen datos empíricos, y que el modelo se ha elaborado de forma deductiva, por lo que necesita ser contrastado con la realidad.
+
+
+# 
+# 
+
+# Resumen del proyecto
+![Infografía](https://gitlab.com/escuelavaciada/escuelavaciada.gitlab.io/-/raw/main/imagenes/Infografia_escuela_vaciada-1.png)
+
