@@ -1,5 +1,12 @@
 ---
 title: Mida la capacidad de retención de su centro
+date: 2022-10-07
+draft: FALSE
+tags: ["Sistema de categorías", "Formulario"]
+---
+
+---
+title: Mida la capacidad de retención de su centro
 subtitle: Sistema de categorías
 comments: false
 ---
